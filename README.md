@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**MyguelTech134/MyguelTech134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Myguel, a Computer Science student based in Brazil 🇧🇷
 
-Here are some ideas to get you started:
+I enjoy coding, experimenting with new technologies, and turning random ideas into real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something pops into my head, I'll probably try to build it (and break a few things along the way).
+
+### 🚀 What I'm up to
+- ☕ Learning **Java, Python & SQL**
+- 🛠️ Building projects and improving my coding skills
+- 🤖 Experimenting with AI and exploring new ideas
+
+### 💻 My Projects
+I like learning by building things. Feel free to check out my pinned repositories to see what I've been working on!
+
+### 🎮 A little about me
+- ☕ Coffee enthusiast
+- 🎬 Big fan of horror and action movies
+- 🤖 Love experimenting with AI
+- 💡 Always thinking about something new to build
